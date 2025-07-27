@@ -9,9 +9,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="oop\abstraction\" />
-      <Folder Include="oop\inheritance\" />
-      <Folder Include="oop\polymorphism\" />
       <Folder Include="solid\" />
     </ItemGroup>
 

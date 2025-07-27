@@ -1,6 +1,6 @@
 namespace code_base.oop.encapsulation;
 
-public class BankAccount
+public class EncapsulationExample
 {
     
 }
