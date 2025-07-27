@@ -13,6 +13,7 @@
       <Folder Include="oop\encapsulation\" />
       <Folder Include="oop\inheritance\" />
       <Folder Include="oop\polymorphism\" />
+      <Folder Include="solid\" />
     </ItemGroup>
 
 </Project>
