@@ -8,4 +8,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="oop\abstraction\" />
+      <Folder Include="oop\encapsulation\" />
+      <Folder Include="oop\inheritance\" />
+      <Folder Include="oop\polymorphism\" />
+    </ItemGroup>
+
 </Project>
