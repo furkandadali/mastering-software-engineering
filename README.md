@@ -4,7 +4,7 @@
 
 Welcome to **Mastering Software Engineering** — a public knowledge vault filled with real-world examples, hands-on projects, and industry best practices.
 
-This repository is for learners, developers, and even experienced engineers who want to sharpen their skills and build a strong foundation in **Software Engineering**. Whether you're preparing for a job, teaching a class, or just exploring the field — you're in the right place.
+This repository is for learners, developers, and even experienced engineers who want to sharpen their skills and build a strong foundation in **Software Engineering**. Whether you're preparing for a job, teaching a class, or just exploring the field.
 
 ---
 
