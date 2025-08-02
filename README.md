@@ -47,16 +47,6 @@ Inside [`/1.OOP`](./1.OOP), you'll find things like:
 
 ---
 
-## 😂 Software Engineering Meme Break
-
-Because why not?
-
-<p align="center">
-  <img src="https://imgur.com/gallery/right-feels-0VUhu16" alt="Meme" width="500" />
-</p>
-
----
-
 ## 🤝 Contribute or Copy Freely
 
 This repo is public — feel free to fork, learn, remix, or even suggest stuff.
