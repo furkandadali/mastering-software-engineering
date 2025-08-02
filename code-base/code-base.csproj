@@ -9,7 +9,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="solid\" />
+      <Folder Include="solid\LiskovSubstitutionPrinciple\BadDesign\" />
+      <Folder Include="solid\LiskovSubstitutionPrinciple\GoodDesign\" />
+      <Folder Include="solid\OpenClosedPrinciple\BadDesign\" />
+      <Folder Include="solid\OpenClosedPrinciple\GoodDesign\" />
+      <Folder Include="solid\SingleResponsiblityPrinciple\BadDesign\" />
+      <Folder Include="solid\SingleResponsiblityPrinciple\GoodDesign\" />
     </ItemGroup>
 
 </Project>
