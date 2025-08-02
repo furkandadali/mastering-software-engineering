@@ -52,7 +52,7 @@ Inside [`/1.OOP`](./1.OOP), you'll find things like:
 Because why not?
 
 <p align="center">
-  <img src="https://i.imgur.com/Y2iMqih.png" alt="Meme" width="500" />
+  <img src="https://imgur.com/gallery/right-feels-0VUhu16" alt="Meme" width="500" />
 </p>
 
 ---
